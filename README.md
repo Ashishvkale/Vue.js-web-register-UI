@@ -4,8 +4,9 @@
 
 To run the project:
 first run server-
+
 /src/components
-1)node server.js
+==> node server.js
 
 run command-
 1) npm init vue@latest
